@@ -638,6 +638,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  overflow-x: hidden;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -2783,7 +2784,7 @@
 
 .mask {
   overflow: visible;
-  width: 300px;
+  width: 200px;
 }
 
 .div-block-53 {
